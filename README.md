@@ -3,6 +3,7 @@
 >* 组名：RT Triangle
 >* 小组成员：陈浩远、李杰
 >* [我们的网站](http://121.42.55.227/)  121.42.55.227
+>* [github](https://github.com/ChenHaoyuan/xmlcourse)  github.com/ChenHaoyuan/xmlcourse
 
 我们的图标：<img src="http://121.42.55.227/icon.png" width="128" height="128" />
 
