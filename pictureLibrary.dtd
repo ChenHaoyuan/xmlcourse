@@ -18,6 +18,5 @@
   <!ELEMENT copyright   (#PCDATA)>
   
   <!ATTLIST pictureLibrary source CDATA #FIXED "www.quanjing.com">
-  <!ATTLIST pictureLibrary version CDATA #REQUIRED>
   <!ATTLIST picture format CDATA #REQUIRED>
   <!ATTLIST labels labelsQuantity CDATA #REQUIRED>
